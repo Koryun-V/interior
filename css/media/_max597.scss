@@ -1,0 +1,48 @@
+@media only screen and (max-width: 597px) {
+  //.container_6 {
+  //  display: flex;
+  //  flex-direction: column;
+  //  align-content: center;
+  //  flex-wrap: wrap;
+  //}
+  .section_6 {
+    display: flex;
+    align-content: center;
+    wrap-flex: wrap;
+  }
+
+  .img_bg {
+    width: auto;
+    height: auto;
+  }
+
+  .image_2{
+    width:auto;
+  }
+
+  .bg_block{
+    min-height: 380px;
+    width: auto;
+    height: auto;
+  }
+
+  .bg_text{
+
+    h2{
+      font-size: 25px;
+    }
+
+    p{
+      font-size: 14px;
+    }
+  }
+
+  .bg-text{
+    padding-right: 5px;
+  }
+
+  .container_6 a:nth-child(n+3) {
+    position: static;
+    width: 100%;
+  }
+}

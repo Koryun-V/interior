@@ -1,0 +1,24 @@
+@media only screen and (max-width: 1100px) {
+  @import "max1100";
+}
+
+@media only screen and (max-width: 992px) {
+  @import "max992";
+}
+
+@media only screen and (max-width: 797px) {
+  @import "max797";
+}
+
+@media only screen and (max-width: 597px) {
+  @import "max597";
+}
+
+@media only screen and (max-width: 470px) {
+  @import "max470";
+}
+
+@media (pointer: coarse) {
+  @import "coarse";
+}
+
