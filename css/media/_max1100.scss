@@ -1,0 +1,29 @@
+@media only screen and (max-width: 1100px) and (max-width: 1100px) {
+  .header {
+    height: 700px;
+  }
+
+  .section_5 {
+    height: 500px;
+  }
+
+  .container_5{
+    padding:0;
+  }
+
+  .owl-carousel__prev {
+    margin-top: 0;
+    margin-bottom: 5px;
+    display: none;
+  }
+
+  .owl-carousel__next {
+    margin-top: 5px;
+    margin-bottom: 0;
+    display: none;
+  }
+
+  .container_6 a:nth-child(n+3) {
+    margin-right: 30px;
+  }
+}
